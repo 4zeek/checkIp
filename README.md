@@ -6,5 +6,5 @@
 
 # Не устанавливается библиотека!
 - Если вы сидите на более новых дистрибутивов(ubuntu,dibian и т.д.),то вам нужно создать виртуальное окружение 
-1 - python3 -m .venv venv
-2 - source .venv/bin/activate
+- 1 - python3 -m .venv venv
+- 2 - source .venv/bin/activate
